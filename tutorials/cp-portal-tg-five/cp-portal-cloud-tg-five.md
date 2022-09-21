@@ -1,6 +1,8 @@
 ---
+title: Test title from the meta
+description: Links, tips, tricks and more for getting started with the SAP HANA, express edition
 parser: v2
-time: 15
+time: 70
 tags: [ tutorial>beginner, topic>javascript, tutorial>license ]
 primary_tag: topic>user-interface
 author_name: Lindsay Bert
@@ -8,7 +10,7 @@ auto_validation: true
 
 ---
 
-# Add a URL App to Your Portal Site TestParser five
+# Add a URL App to Your Portal Site TestParser five 
 <!-- description --> Create a URL app and add it to the launchpad page on your Portal site test 2
 
 ## You will learn
