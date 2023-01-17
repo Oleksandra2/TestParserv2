@@ -3,7 +3,7 @@ parser: v2
 author_name: Rich Heilman
 author_profile: https://github.com/rich-heilman
 tags: [ tutorial>beginner, topic>javascript, tutorial>license ]
-primary_tag: topic>user-interfacee 
+primary_tag: topic>user-interface
 time: 15
 ---
 
